@@ -1,0 +1,1 @@
+(()=>{"use strict";const o=function(o,c){console.log(o+c)};console.log("Testando o webpack"),o(10,20),o(4,2)})();
